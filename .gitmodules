@@ -1,3 +1,4 @@
 [submodule "Library-Natural-Language-Processing"]
 	path = Library-Natural-Language-Processing
 	url = git@github.com:bayudwiyansatria/Library-Natural-Language-Processing.git
+	master = master

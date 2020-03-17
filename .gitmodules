@@ -1,4 +1,5 @@
-[submodule "Library-Natural-Language-Processing"]
-	path = Library-Natural-Language-Processing
-	url = git@github.com:bayudwiyansatria/Library-Natural-Language-Processing.git
+[submodule "library-nlp"]
+	path = library-nlp
+	url = git@github.com:bayudwiyansatria/library-nlp.git
+	branch = master
 	master = master
